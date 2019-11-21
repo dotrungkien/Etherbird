@@ -1,0 +1,13 @@
+.DS_Store
+build/
+library/
+temp/
+local/
+jsb-binary/
+web-desktop/
+web-mobile/
+runtime/
+build/
+jsb/
+export/
+
