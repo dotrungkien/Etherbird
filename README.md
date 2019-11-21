@@ -10,7 +10,7 @@ Live Game: [PLAY](https://etherbird.surge.sh)
 
 ## How to play
 
-- You must pay `0.01 ETH` for each play turn.
+- Hit `PLAY` to start a new game.
 
 ![home](documentation/home.png)
 
